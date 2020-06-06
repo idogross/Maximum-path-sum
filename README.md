@@ -13,3 +13,4 @@ same problem, but with memoization.
 # Motivation
 Implementation of recursive functions.
 
+The pyramid.txt file is the pyramid from problem 18 of Project Euler: https://projecteuler.net/problem=18
