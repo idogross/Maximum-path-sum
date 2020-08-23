@@ -5,7 +5,7 @@ Example:
              [5,7]
             [3,4,2]
            [8,3,6,1]
-is an integer-pyramid in which the maximum path is: 4->7->4->6 and its sum is: 21.
+is an integer-pyramid with the maximum path: 4->7->4->6 and its sum is: 21.
 
 # Maximum-path-sum-mem
 same problem, but with memoization.
